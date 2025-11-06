@@ -1,10 +1,6 @@
 {- 
  * Programa que pasa una función como parámetro
  *
- * Referencia:
- * https://www.haskell.org/tutorial/
- * https://wiki.haskell.org/Higher_order_functions
- *
  * Software: GHC 9.6.5
  *
  * Editor: Kevin Alan Torres Cruz
